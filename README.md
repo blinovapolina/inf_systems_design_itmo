@@ -239,7 +239,8 @@ Must 3\. Разрешение конфликтов и правила приор�
  
 
    
-![][image1]  
+<img width="430" height="640" alt="image" src="https://github.com/user-attachments/assets/2351f156-0485-4a46-88a7-a186efafa6c5" />
+
 Рисунок 1 — Целевой процесс бронирования
 
  
