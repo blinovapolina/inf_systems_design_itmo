@@ -336,7 +336,7 @@ P — вероятность, I — влияние; экспертная шка�
 4) Тарифы Яндекс 360 для бизнеса (крупный бизнес) // Яндекс : официальный сайт. – URL: https\://360.yandex.ru/business/tariffs/ (дата обращения: 25.10.2026).  
 5) 1С:Управление учебным центром. Рекомендованные розничные цены // 1С : официальный сайт. – URL: https\://solutions.1c.ru/catalog/buy/ (дата обращения: 25.10.2026).  
 6) Rentman Pricing. Inventory. Standard & Power User // Rentman : официальный сайт. – URL: https\://rentman.io/pricing/inventory (дата обращения: 25.10.2026).  
-7) Booked Scheduler Alternatives & Pricing Overview // OpenCals. – URL: https\://opencals.com/blog/booked-scheduler-alternatives (дата обращения: 25.10.2026).  
+7) Booked Scheduler: Pricing // Booked Scheduler : официальный сайт. — URL: https://www.bookedscheduler.com/pricing (дата обращения: 25.10.2026). 
 8) Аренда VPS/VDS серверов в России. Тарифы // HostingHUB. – URL: https\://hostinghub.ru/vps-search/ (дата обращения: 25.10.2026).  
 9) SSL-сертификаты для юридических лиц. Тарифы // Рег.ру : официальный сайт. – URL: https\://www\.reg.ru/ssl-certificate/ (дата обращения: 25.10.2026).  
 10) Резервное копирование виртуальных машин. Тарифы // Cloud.ru : официальный сайт. – URL: https\://cloud.ru/documents/tariffs/ (дата обращения: 25.10.2026).
